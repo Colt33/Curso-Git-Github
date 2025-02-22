@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/parte02_curso/parte02_curso.iml" filepath="$PROJECT_DIR$/parte02_curso/parte02_curso.iml" />
       <module fileurl="file://$PROJECT_DIR$/teste-git-commit.iml" filepath="$PROJECT_DIR$/teste-git-commit.iml" />
     </modules>
   </component>
